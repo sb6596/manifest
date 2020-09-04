@@ -11,6 +11,10 @@
   <remote  name="aospextended"
            fetch="https://github.com/AospExtended"
            revision="refs/heads/ten" />
+
+  <remote  name="aospextended-devices"
+           fetch="https://github.com/AospExtended-Devices" 
+           revision="refs/heads/ten" />
            
   <remote  name="lineage"
            fetch="https://github.com/LineageOS"
